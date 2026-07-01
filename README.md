@@ -63,6 +63,6 @@ restaurant-website/
 
 
 
-**Your Name**
+HARSHITHA S
 
-GitHub: https://github.com/YourUsername
+GitHub: harshitha221207-IT
