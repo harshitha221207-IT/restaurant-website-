@@ -1,68 +1,110 @@
 # 🍽️ Spice Garden - Restaurant Website
 
+A simple restaurant website built using **HTML**, **CSS**, and **JavaScript** as part of my web development learning journey.
+
 ## 📖 About the Project
 
-Spice Garden is a basic restaurant website created using HTML as part of my web development learning journey.
-This project helped me understand the fundamentals of creating web pages and organizing content.
+Spice Garden is a beginner-friendly restaurant website that showcases a restaurant's menu, special offers, feedback form, table booking form, and contact information. This project helped me understand the fundamentals of front-end web development.
+
+---
 
 ## ✨ Features
 
-- Restaurant homepage
-- Hero banner
-- Today's Special section
-- Menu with food items
-- Restaurant timings
-- Contact information
-- Food images
+- 🏠 Attractive homepage with restaurant banner
+- 🍴 Menu categorized into:
+  - Starters
+  - Main Course
+  - Desserts
+- 🖼️ Food images for each menu item
+- ⭐ Food ratings
+- 🛒 Order buttons
+- 🔥 Today's Special Offer section
+- 📝 Customer Feedback Form
+- 🍽️ Table Booking Form
+- 📞 Contact Information
+- 💡 "Why Choose Us" section
+- 🌙 Basic JavaScript functionality (order alerts, form validation, etc.)
 
+---
 
 ## 🛠️ Technologies Used
 
 - HTML5
+- CSS3
+- JavaScript
 
+---
 
 ## 📂 Project Structure
 
 ```
-restaurant-website/
-│── index.html
-│── images/
-│   ├── banner.jpg
-│   ├── gobi.jpg
-│   ├── biryani.jpg
-│   └── ...
+Spice-Garden/
+│
+├── index.html
+├── style.css
+├── script.js
+├── images/
 └── README.md
 ```
 
+---
 
-## 🚀 How to Run
+## 🚀 How to Run the Project
 
-1. Download or clone the repository.
-2. Open the `index.html` file in any web browser.
+1. Clone this repository:
 
+```bash
+git clone https://github.com/YourUsername/Spice-Garden.git
+```
 
+2. Open the project folder.
 
-## 🎯 What I Learned
+3. Double-click `index.html` or open it in any web browser.
 
-- HTML document structure
-- Headings and paragraphs
-- Images
-- Tables
-- Forms and buttons
-- Hyperlinks
-- Basic webpage layout
+---
 
+## 📸 Project Preview
+
+> Add screenshots here after uploading them to your repository.
+
+Example:
+
+```markdown
+![Home Page](screenshots/homepage.png)
+
+![Menu](screenshots/menu.png)
+```
+
+---
+
+## 📚 What I Learned
+
+Through this project, I learned:
+
+- HTML page structure
+- CSS styling
+- Creating tables and forms
+- Using images and buttons
+- Linking CSS and JavaScript files
+- Basic JavaScript functions
+- Form validation
+- DOM manipulation
+
+---
 
 ## 🔮 Future Improvements
 
-- Add CSS for better styling
-- Make the website responsive
-- Add JavaScript for interactivity
-- Improve the user interface
+- Responsive design for mobile devices
+- Online ordering system
+- Shopping cart
+- Search functionality
+- Login and Registration
+- Payment Gateway Integration
+- Backend using Node.js or PHP
+- Database integration
 
-
+---
 
 
 HARSHITHA S
 
-GitHub: harshitha221207-IT
