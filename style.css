@@ -1,0 +1,67 @@
+/* Whole page */
+body{
+    font-family: Arial, sans-serif;
+    background-color:blanchedalmond;
+    margin:0;
+}
+
+
+.banner{
+    background-image:url("https://t3.ftcdn.net/jpg/06/20/60/30/360_F_620603097_9gGKtJXGYbBhAZL4e18aMjrQOzjX4GRO.jpg");
+    background-size:cover;
+    background-position:center;
+    height:300px;
+    text-align:center;
+    color:white;
+    padding-top:90px;
+}
+
+
+.title{
+    font-size:50px;
+}
+
+
+.subtitle{
+    font-size:25px;
+}
+
+
+h2{
+    color:darkmagenta;
+    text-align:center;
+}
+
+
+.food-image{
+    width:180px;
+    height:180px;
+    border-radius:10px;
+}
+
+
+.order-btn{
+    background-color:crimson;
+    color:white;
+    padding:10px 20px;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+
+.order-btn:hover{
+    background-color:red;
+}
+
+
+table{
+    margin:auto;
+}
+
+footer{
+    background:black;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
