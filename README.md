@@ -63,19 +63,7 @@ git clone https://github.com/YourUsername/Spice-Garden.git
 
 ---
 
-## 📸 Project Preview
 
-> Add screenshots here after uploading them to your repository.
-
-Example:
-
-```markdown
-![Home Page](screenshots/homepage.png)
-
-![Menu](screenshots/menu.png)
-```
-
----
 
 ## 📚 What I Learned
 
